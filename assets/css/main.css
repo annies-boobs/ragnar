@@ -3974,7 +3974,6 @@
 		list-style: none;
 		margin-bottom: 0;
 		padding: 0;
-		text-transform: uppercase;
 	}
 
 		#menu ul a, #menu ul span {
@@ -4062,3 +4061,4 @@
 			margin-top: 0;
 			padding-top: 0;
 		}
+		
